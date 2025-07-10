@@ -194,7 +194,7 @@ streamlit run visualization/dashboard.py
 
 ## 📦 Dependencies
 
-* TensorFlow / Keras
+* TensorFlow / Keras / Pytorch
 * XGBoost / Scikit-learn
 * SHAP
 * Rasterio
