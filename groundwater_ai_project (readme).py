@@ -1,7 +1,6 @@
 # Project: Explainable Physics-Guided Ensemble for Groundwater Vulnerability Mapping Under Climate Uncertainty
 
 # 📁 Folder Structure Overview
-# This repo is modular and reproducible. You can track raw data, modeling scripts, explainability code, map generation, and a public-facing dashboard.
 
 # ─────────────────────────────────────────────
 # 📂 groundwater_ai_project/
@@ -145,10 +144,9 @@ streamlit run visualization/dashboard.py
 
 ## 📫 Contact
 Iman Mahato  
-`<add your email or GitHub if public>`  
+`<iman21@iiserbpr.ac.in>`  
 Indian Institute of Science Education and Research (IISER) Berhampur  
-Collaborators: Dr. Deepak Mishra (IIST), Prof. Gnanappazham L.
+Collaborators: Dr. Deepak Mishra (IIST), Dr. Pragnaditya Malakar.
 
 ---
 
-✅ You're now ready to reproduce, share, or present this end-to-end pipeline.
